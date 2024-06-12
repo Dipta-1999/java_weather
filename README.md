@@ -5,6 +5,6 @@
   Untill and unless you type "quit" as the city name the program will not stop running
 </p>
 <p>
-  for your reference:- <a>https://openweathermap.org/api/</a>
-  create an account and generate API KEYS and then use that keys to get the outputs.
+  for your reference:- <a href="https://openweathermap.org/api/"> Click Here</a>
+  to create an account and generate API KEYS and then use that keys to get the outputs.
 </p>
